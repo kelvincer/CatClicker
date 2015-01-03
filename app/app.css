@@ -1,0 +1,21 @@
+/* app css stylesheet */
+
+#parent {
+    width: 100%;
+    white-space: nowrap;
+}
+
+div, p {
+    display: inline-block;
+    width: 45%;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 100px;
+    font-weight: 600;
+}
